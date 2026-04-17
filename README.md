@@ -44,7 +44,18 @@ lib/
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/welcome.jpeg" alt="Welcome" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/home.jpeg" alt="Home" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/cart.jpeg" alt="Cart" width="200" hight="100" style="margin-right:20px;"/>
 
+  <img src="screenshots/logo.jpeg" alt="Logo" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/signin.jpeg" alt="Sign In" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/signup.jpeg" alt="Sign Up" width="200" hight="100" style="margin-right:20px;"/>
+<img src="screenshots/product.jpeg" alt="Product" width="200" hight="100" style="margin-right:20px;"/>
+
+
+</p>
 
 ---
 
